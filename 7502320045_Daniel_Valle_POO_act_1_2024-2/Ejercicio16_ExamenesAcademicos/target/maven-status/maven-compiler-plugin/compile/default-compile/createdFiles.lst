@@ -1,0 +1,17 @@
+co\edu\ude\poo\Ejercicio16_ExamenesAcademicos\modelo\crud\ExamenEscritoCrud.class
+co\edu\ude\poo\Ejercicio16_ExamenesAcademicos\Customs\Errores.class
+co\edu\ude\poo\Ejercicio16_ExamenesAcademicos\modelo\crud\ExamenPracticoCrud.class
+co\edu\ude\poo\Ejercicio16_ExamenesAcademicos\modelo\crud\OperacionNotaCrud.class
+co\edu\ude\poo\Ejercicio16_ExamenesAcademicos\modelo\crud\ActividadPracticaGrupalCrud.class
+co\edu\ude\poo\Ejercicio16_ExamenesAcademicos\modelo\crud\TemaCrud.class
+co\edu\ude\poo\Ejercicio16_ExamenesAcademicos\modelo\crud\DiseñoColaborativoPracticaCrud.class
+co\edu\ude\poo\Ejercicio16_ExamenesAcademicos\modelo\crud\ProfesorCrud.class
+co\edu\ude\poo\Ejercicio16_ExamenesAcademicos\modelo\crud\AlumnoCrud.class
+co\edu\ude\poo\Ejercicio16_ExamenesAcademicos\modelo\crud\AlumnosDestacadosCrud.class
+co\edu\ude\poo\Ejercicio16_ExamenesAcademicos\modelo\crud\EvaluacionCrud.class
+co\edu\ude\poo\Ejercicio16_ExamenesAcademicos\modelo\crud\PracticaCrud.class
+co\edu\ude\poo\Ejercicio16_ExamenesAcademicos\modelo\crud\main\ICrudModel.class
+co\edu\ude\poo\Ejercicio16_ExamenesAcademicos\modelo\crud\AsignaturaCrud.class
+co\edu\ude\poo\Ejercicio16_ExamenesAcademicos\modelo\crud\GrupoCrud.class
+co\edu\ude\poo\Ejercicio16_ExamenesAcademicos\modelo\crud\UsuarioCrud.class
+co\edu\ude\poo\Ejercicio16_ExamenesAcademicos\modelo\crud\ExamenOtrosCrud.class
